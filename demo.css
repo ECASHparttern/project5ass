@@ -1,0 +1,13 @@
+.row{
+   margin-left: 10%;
+}
+table, h3, ul{
+   margin-left: 15% ;
+}
+.pis{
+   padding: 0;
+   margin: inherit;
+   position: relative;
+   display: grid;
+   grid-row: ;
+}
